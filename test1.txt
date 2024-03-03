@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hello world!
 misha1
 
 
+=======
+Hello world
+egor2
+>>>>>>> egor2
